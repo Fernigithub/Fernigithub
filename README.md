@@ -1,4 +1,28 @@
 ### Hi there 👋
+🔭 I’m currently working on ...
+Python developer, Geoinformation & Remote Sensing
+Amazon Web Services(AWS)
+
+- AWS Lambda Functions (Python3, NodeJS).
+- DynamoDB
+- AWS Sam. Microservices
+- SQS, SNS
+- API GateWay.
+- S3
+- Docker. ECS. Fargate.
+- IAM, CloudWatch.
+- RDS (Postgis)
+
+- Flask, API REST, graphQL.
+- Virtual env. , Pip. JupyterLab.
+- Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
+
+Remote Sensing:
+Sentinel 2, Landsat(5-8), Sentinel 1 (SAR), Planet Scope, CBERS , MODIS, SAOCOM (SAR) , Sentinel 3, etc...
+
+Databases PostgreSQL
+
+🌱 I’m currently learning ...
 
 <!--
 **Fernigithub/Fernigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
