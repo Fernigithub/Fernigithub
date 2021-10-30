@@ -2,7 +2,7 @@
 🔭 I’m currently working on ... <br>
 Python developer, Geoinformation & Remote Sensing
 Amazon Web Services(AWS)
-
+#AWS
 - AWS Lambda Functions (Python3, NodeJS).
 - DynamoDB
 - AWS Sam. Microservices
@@ -12,7 +12,7 @@ Amazon Web Services(AWS)
 - Docker. ECS. Fargate.
 - IAM, CloudWatch.
 - RDS (Postgis)
-
+# Python
 - Flask, API REST, graphQL.
 - Virtual env. , Pip. JupyterLab.
 - Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
