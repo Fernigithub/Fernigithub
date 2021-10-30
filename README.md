@@ -2,7 +2,7 @@
 🔭 I’m currently working on ... <br>
 Python developer, Geoinformation & Remote Sensing
 Amazon Web Services(AWS)
-#AWS
+# AWS
 - AWS Lambda Functions (Python3, NodeJS).
 - DynamoDB
 - AWS Sam. Microservices
