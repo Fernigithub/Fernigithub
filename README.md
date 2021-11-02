@@ -2,6 +2,12 @@
 🔭 I’m currently working on ... <br>
 Python developer, Geoinformation & Remote Sensing <br>
 Amazon Web Services Cloud (AWS)
+
+# Python
+- Flask, API REST, graphQL.
+- Virtual env. , Pip. JupyterLab.
+- Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
+
 # AWS
 - AWS Lambda Functions (Python3, NodeJS).
 - DynamoDB
@@ -12,15 +18,10 @@ Amazon Web Services Cloud (AWS)
 - Docker. ECS. Fargate.
 - IAM, CloudWatch.
 - RDS (Postgis)
-# Python
-- Flask, API REST, graphQL.
-- Virtual env. , Pip. JupyterLab.
-- Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
+- 
+# Remote Sensing
+- Sentinel 2, Landsat(5-8), Sentinel 1 (SAR), Planet Scope, CBERS , MODIS, SAOCOM (SAR) , Sentinel 3, etc...
 
-Remote Sensing:
-Sentinel 2, Landsat(5-8), Sentinel 1 (SAR), Planet Scope, CBERS , MODIS, SAOCOM (SAR) , Sentinel 3, etc...
-
-Databases PostgreSQL
 
 🌱 I’m currently learning ...
 
