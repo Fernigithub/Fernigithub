@@ -9,7 +9,7 @@ Amazon Web Services Cloud (AWS)
 - Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
 
 # AWS
-- AWS Lambda Functions (Python3, NodeJS).
+- AWS Lambda Functions (Python3, Node.js).
 - DynamoDB
 - Serverless Application Model(AWS SAM).
 - SQS, SNS
@@ -23,6 +23,7 @@ Amazon Web Services Cloud (AWS)
 - Github
 - JIRA
 - Microservices
+- Google Earth Engine (Python & Node.js)
 
 
 # Remote Sensing
