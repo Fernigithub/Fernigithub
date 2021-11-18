@@ -11,7 +11,7 @@ Amazon Web Services Cloud (AWS)
 # AWS
 - AWS Lambda Functions (Python3, NodeJS).
 - DynamoDB
-- AWS Sam. Microservices
+- Serverless Application Model(AWS SAM).
 - SQS, SNS
 - API GateWay.
 - S3
@@ -22,6 +22,7 @@ Amazon Web Services Cloud (AWS)
 # Others
 - Github
 - JIRA
+- Microservices
 
 
 # Remote Sensing
