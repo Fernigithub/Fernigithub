@@ -18,7 +18,12 @@ Amazon Web Services Cloud (AWS)
 - Docker. ECS. Fargate.
 - IAM, CloudWatch.
 - RDS (Postgis)
-- 
+
+# Others
+- Github
+- JIRA
+
+
 # Remote Sensing
 - Sentinel 2, Landsat(5-8), Sentinel 1 (SAR), Planet Scope, CBERS , MODIS, SAOCOM (SAR) , Sentinel 3, etc...
 
