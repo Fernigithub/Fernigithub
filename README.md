@@ -49,6 +49,11 @@ Amazon Web Services Cloud (AWS)
 
 🌱 I’m currently learning ...
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Fernigithub)](https://github.com/Fernigithub)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernigithub&layout=compact)](https://github.com/Fernigithub)
+
+
 <!--
 **Fernigithub/Fernigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
