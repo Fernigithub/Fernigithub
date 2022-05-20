@@ -47,7 +47,13 @@ Amazon Web Services Cloud (AWS)
 - Reports: Charts and Graphics serverless generator based on information from Satellite images, using AWS Lambda Function, AWS ApiGateway & AWS Simple Workflow Feature.
 - Dashboards: Serverless Dashboard service (Data Analysis) using Python Dash – Plottly, AWS Fargate & AWS SWF.
 
-🌱 I’m currently learning ...
+# Connect
+<a href="https://www.linkedin.com/in/fernando-tentor-99807852/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>  
+
+<br />
+<br />
+
+# Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Fernigithub)](https://github.com/Fernigithub)
 
@@ -69,4 +75,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br />
