@@ -48,7 +48,10 @@ Amazon Web Services Cloud (AWS)
 - Dashboards: Serverless Dashboard service (Data Analysis) using Python Dash – Plottly, AWS Fargate & AWS SWF.
 
 # Connect
-<a href="https://www.linkedin.com/in/fernando-tentor-99807852/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>  
+
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=kIfkf-cAAAAJ&hl=en)
+
+[![Linkedin: FernandoTentor](https://img.shields.io/badge/-Fernando%20Tentor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-tentor-99807852/)](https://www.linkedin.com/in/fernando-tentor-99807852/)
 
 <br />
 <br />
