@@ -53,9 +53,6 @@ Amazon Web Services Cloud (AWS)
 
 [![Linkedin: FernandoTentor](https://img.shields.io/badge/-Fernando%20Tentor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-tentor-99807852/)](https://www.linkedin.com/in/fernando-tentor-99807852/)
 
-<br />
-<br />
-
 # Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Fernigithub)](https://github.com/Fernigithub)
