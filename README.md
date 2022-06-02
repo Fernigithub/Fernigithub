@@ -35,6 +35,7 @@ Amazon Web Services Cloud (AWS)
 - JIRA
 - Microservices
 - Google Earth Engine (Python & Node.js)
+- Qgis, ArcGis, SNAP, GRASS, SAGA, Agisoft Photoscan
 
 
 # Remote Sensing
