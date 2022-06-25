@@ -13,6 +13,9 @@ Amazon Web Services Cloud (AWS)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+[![Linkedin: FernandoTentor](https://img.shields.io/badge/-Fernando%20Tentor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-tentor-99807852/)](https://www.linkedin.com/in/fernando-tentor-99807852/)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=kIfkf-cAAAAJ&hl=en)
+
 # Python
 - Flask, API REST, graphQL.
 - Virtual env. , Pip. JupyterLab.
@@ -48,11 +51,6 @@ Amazon Web Services Cloud (AWS)
 - Reports: Charts and Graphics serverless generator based on information from Satellite images, using AWS Lambda Function, AWS ApiGateway & AWS Simple Workflow Feature.
 - Dashboards: Serverless Dashboard service (Data Analysis) using Python Dash – Plottly, AWS Fargate & AWS SWF.
 
-# Connect
-
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=kIfkf-cAAAAJ&hl=en)
-
-[![Linkedin: FernandoTentor](https://img.shields.io/badge/-Fernando%20Tentor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-tentor-99807852/)](https://www.linkedin.com/in/fernando-tentor-99807852/)
 
 # Stats
 
