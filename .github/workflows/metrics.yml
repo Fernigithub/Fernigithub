@@ -41,15 +41,6 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-      - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      - name: Update README
-        run: |-
-          curl --fail -sL -o tils.db https://github.com/cheginit/til-db/raw/main/tils.db
-          python update_readme.py
-          cat README.md
       - name: Commit and push if README changed
         run: |-
           git pull
