@@ -60,6 +60,8 @@ Amazon Web Services Cloud (AWS)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fernigithub.Fernigithub)](https://github.com/Fernigithub)
 
+![Metrics](https://github.com/Fernigithub/Fernigithub/blob/main/github-metrics.svg) 
+
 <!--
 **Fernigithub/Fernigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -75,4 +77,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
-![Metrics](https://github.com/Fernigithub/Fernigithub/blob/main/github-metrics.svg) 
+
