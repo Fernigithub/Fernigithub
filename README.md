@@ -75,3 +75,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
+![Metrics](https://github.com/Fernigithub/Fernigithub/blob/main/github-metrics.svg) 
