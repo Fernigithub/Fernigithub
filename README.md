@@ -17,7 +17,7 @@ Amazon Web Services Cloud (AWS)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=kIfkf-cAAAAJ&hl=en)
 
 # Python
-- Flask, API REST, graphQL.
+- Streamlit, Flask, API REST, graphQL.
 - Virtual env. , Pip. JupyterLab.
 - Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
 
