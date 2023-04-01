@@ -34,6 +34,7 @@ Amazon Web Services Cloud (AWS)
 
 # Others
 - GDAL
+- GEOSERVER
 - Github
 - JIRA
 - Microservices
