@@ -16,6 +16,8 @@ Amazon Web Services Cloud (AWS)
 [![Linkedin: FernandoTentor](https://img.shields.io/badge/-Fernando%20Tentor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-tentor-99807852/?locale=en_US)](https://www.linkedin.com/in/fernando-tentor-99807852/?locale=en_US)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=kIfkf-cAAAAJ&hl=en)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-tentor-99807852" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/fernando-tentor-99807852/en?trk=profile-badge">Fernando Tentor</a></div>
+              
 # Python
 - Streamlit, Flask, API REST, graphQL.
 - Virtual env. , Pip. JupyterLab.
