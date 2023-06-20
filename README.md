@@ -24,15 +24,17 @@ Amazon Web Services Cloud 🌩️ (AWS)
 - Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, PyTorch, GeeMap, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
 
 # AWS
+- SageMaker
 - AWS Lambda Functions (Python3, Node.js).
+- RDS (Postgis)
+- S3
 - DynamoDB
 - Serverless Application Model(AWS SAM).
 - SQS, SNS
-- API GateWay.
-- S3
-- Docker. ECS. Fargate.
+- API Gateway.
+- Docker, ECR, ECS, Fargate.
 - IAM, CloudWatch.
-- RDS (Postgis)
+
 
 # Others
 - DOCKER
@@ -42,7 +44,7 @@ Amazon Web Services Cloud 🌩️ (AWS)
 - JIRA
 - Microservices
 - Google Earth Engine (Python & Node.js)
-- Qgis, ArcGis, SNAP, GRASS, SAGA, Agisoft Photoscan
+- Qgis, ArcGis, SNAP, GRASS, SAGA, Agisoft Photoscan, AutoCAD.
 
 
 # Remote Sensing
