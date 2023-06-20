@@ -20,7 +20,7 @@ Amazon Web Services Cloud (AWS)
 # Python
 - Streamlit, Flask, API REST, graphQL.
 - Virtual env. , Pip. JupyterLab.
-- Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
+- Numpy, Pandas, Shapely, Geopandas, Rasterio, Rio-tiler, Pillow, PyTorch, GeeMap, Scipy, scikit-learn, scikit-image, Folium, boto3, psycopg2, mercantile, requests, pySTACK, and so on.....
 
 # AWS
 - AWS Lambda Functions (Python3, Node.js).
