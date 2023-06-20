@@ -46,7 +46,7 @@ Amazon Web Services Cloud 🌩️ (AWS)
 
 
 # Remote Sensing
-- Sentinel 2, Landsat(5-8), Sentinel 1 (SAR), Planet Scope, CBERS , MODIS, SAOCOM (SAR) , Sentinel 3, etc...
+- Sentinel 2, Landsat(5-9), Sentinel 1 (SAR), Planet Scope, CBERS , MODIS, SAOCOM (SAR) , Sentinel 3, etc...
 
 # Projects
 - GlobalVis: Scalable satellite images server. I built and currently maintain a system to deliver Satellite images (Sentinel 2, Landsat 8 & Landsat 9 ) using AWS Lambda Function and AWS API Gateway.
